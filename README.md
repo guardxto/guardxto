@@ -41,6 +41,16 @@ Plain-language guides for people who run websites: how DDoS attacks work, what b
 [Learning centre](https://guardx.to/learning) &nbsp;·&nbsp; [Vulnerabilities explained](https://guardx.to/vulnerabilities) &nbsp;·&nbsp; [Providers compared](https://guardx.to/compare)
 
 
+### Open source
+
+Small tools, configuration examples and reference lists we maintain in the open.
+
+| Repository | What it is |
+| :-- | :-- |
+| [netcalc](https://github.com/guardxto/netcalc) | Subnet, bandwidth-to-PPS and tunnel MTU/MSS maths as a CLI and a TypeScript library |
+| [origin-configs](https://github.com/guardxto/origin-configs) | Tested nginx, Caddy, Apache and HAProxy configs for running behind a reverse proxy or CDN |
+| [awesome-ddos-resources](https://github.com/guardxto/awesome-ddos-resources) | Standards, guides, open-source tools and write-ups on keeping sites online |
+
 ### Contact
 
 Email [contact@guardx.to](mailto:contact@guardx.to) &nbsp;·&nbsp; Telegram [@guardx_support](https://t.me/guardx_support) &nbsp;·&nbsp; Security reports: [security.txt](https://guardx.to/.well-known/security.txt)
